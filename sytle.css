@@ -1,7 +1,7 @@
 .navbar {
    position: fixed;
 }
-.navbar h4 {
+.navbar h5 {
     font-weight: 300;
 }
 .announcement {
@@ -9,4 +9,21 @@
     height: 50px;
     text-align: center;
     color: white;
+}
+#hero-section {
+    background-color: rgb(255, 247, 254);
+}
+#hero1 {
+    padding-top: 100px;
+    padding-left: 80px;
+}
+#hero-section #p1 {
+    font-size: 50px;
+}
+.hero2 {
+    width: 45%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+
 }
