@@ -1,4 +1,12 @@
-#accio_logo {
-    margin-left: 100px;
-    margin-right: 270px;
+.navbar {
+   position: fixed;
+}
+.navbar h4 {
+    font-weight: 300;
+}
+.announcement {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    color: white;
 }
